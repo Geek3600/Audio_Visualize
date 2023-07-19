@@ -83,7 +83,11 @@
 
 
 
-## 项目预期结果展示
+## 项目预期结果
+
+![](C:\Users\Lenovo\Desktop\Audio_Visualize\images\Untitled ‑ Made with FlexClip.gif)
+
+
 
 ## 项目心得
 
