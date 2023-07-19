@@ -16,7 +16,7 @@
 
 
 
-![image-20230719092712865](C:\Users\Lenovo\Desktop\Audio_Visualize\assets\image-20230719092712865.png)
+![](https://raw.githubusercontent.com/Geek3600/Picture-Host/main/image-20230719092712865.png)
 
 ## 项目步骤介绍
 
@@ -28,7 +28,7 @@
 
 * 点击Add Files...，将src目录下的所有.cpp和.h文件添加到项目中  
 
-  ![image-20230719093158995](C:\Users\Lenovo\Desktop\Audio_Visualize\assets\image-20230719093158995.png)
+  ![](https://raw.githubusercontent.com/Geek3600/Picture-Host/main/image-20230719093158995.png)
 
 * 点击Top Function栏中的Browse按键，选择fft_wrap，这是我们进行综合时候的顶层函数，点击Next
 
@@ -60,7 +60,7 @@
 * 我们需要对上述Processing System进行配置，添加一个HP端口双击Diagram中的processing_system7_0模块，弹出Re-customize IP窗口, 在左侧Page Navigator中选择PS-PL Configuration页面，展开右侧选项中的HP Slave AXI Interface，勾选上S AXI HP0 interface选项点击OK
 * 点击Diagam窗口上方的 + 按钮，搜索fir，可以看到我们刚才导入的IP已经可以使用了，双击Fft_wrap以将其添加到设计中
 * 下面我们对设计进行自动连线。点击窗口上方的蓝色下划线提示Run Connection Automation，弹出对应窗口，将左侧All Automation 选项勾选上，再点击OK
-* 自动连线之后会得到如下的设计![Snipaste_2023-07-19_09-40-52](C:\Users\Lenovo\Desktop\Audio_Visualize\assets\Snipaste_2023-07-19_09-40-52.png)
+* 自动连线之后会得到如下的设计![](https://raw.githubusercontent.com/Geek3600/Picture-Host/main/Snipaste_2023-07-19_09-40-52.png)
 * 在Diagram上侧的工具栏中点击勾形图标Validate Design，对设计进行验证  
 * 在左侧的Source > Design Sources > design_1选项上右键，选择Generate Output Products  
 * 在左侧的Source > Design Sources > design_1选项上右键，选择Create HDL Wrapper，在弹出窗口中保持选项不变并点击OK，完成后可以看到在design_1.bd上层嵌套了一层design_1_wrapper.v文件
@@ -81,13 +81,15 @@
 
   文件，将其复制到自己的文件夹中保存，并重命名为fft.hwh
 
+* 
+
 #### 
 
 
 
 ## 项目预期结果
 
-![result](C:\Users\Lenovo\Desktop\Audio_Visualize\assets\result.gif)
+![](https://raw.githubusercontent.com/Geek3600/Picture-Host/main/Snipaste_2023-07-19_09-40-52.png)
 
 
 
