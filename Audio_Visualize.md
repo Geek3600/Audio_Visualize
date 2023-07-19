@@ -14,6 +14,8 @@
 
 ## 项目设计
 
+
+
 ![image-20230719092712865](C:\Users\Lenovo\Desktop\Audio_Visualize\assets\image-20230719092712865.png)
 
 ## 项目步骤介绍
@@ -85,7 +87,7 @@
 
 ## 项目预期结果
 
-![](C:\Users\Lenovo\Desktop\Audio_Visualize\images\Untitled ‑ Made with FlexClip.gif)
+![result](C:\Users\Lenovo\Desktop\Audio_Visualize\assets\result.gif)
 
 
 
