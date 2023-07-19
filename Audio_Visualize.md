@@ -87,7 +87,7 @@
 
 ## 项目预期结果
 
-![](https://raw.githubusercontent.com/Geek3600/Picture-Host/main/Snipaste_2023-07-19_09-40-52.png)
+![](https://raw.githubusercontent.com/Geek3600/Picture-Host/main/result.gif)
 
 
 
